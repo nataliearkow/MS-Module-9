@@ -13,7 +13,7 @@
 This is a README generator created with Node.js
 
 ## Usage
-hi
+Used to generate a README file quick and easy.
 
 ## Installation
 - VS Code
