@@ -1,5 +1,5 @@
 
-## hi
+## MODULE 9 - README Generator!
 
 ## Table of Content
 - [Project description](#Description)
@@ -10,22 +10,25 @@
 - [License](#License)
 
 ## Description
-hi
+This is a README generator created with Node.js
 
 ## Usage
 hi
 
 ## Installation
-hi
+- VS Code
+- Node.js
+- inquirer
         
 ## Contributing
-undefined
 
 ## Questions
-hi
-hi
+Email: arkownatalie@gmail.com
+
+## Video
+https://user-images.githubusercontent.com/109115351/194731263-74e1f9e9-c6f4-4562-921d-398ba0acf2a3.mov
 
 ## License
-isc
+ISC
 
         
