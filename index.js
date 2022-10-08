@@ -1,9 +1,9 @@
-// Packages needed for this application
+// Packages needed for this application //
 const inquirer = require('inquirer')
 const fs = require('fs');
 const MarkDown = require('./lib/readmegen')
 
-// Array of questions for user input
+// Array of questions for user input //
 const questions = [
     {
         type: 'input',
@@ -55,6 +55,8 @@ const questions = [
         }
     },
 ]
+
+// Run Function //
 
 function runQuery() {
     return inquirer.prompt(questions)
