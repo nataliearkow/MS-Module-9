@@ -24,7 +24,7 @@ Used to generate a README file quick and easy.
 
 ## Questions
 Email: arkownatalie@gmail.com
-Github: github.com/nataliearkow/
+Github: github.com/nataliearkow
 
 ## Video
 https://user-images.githubusercontent.com/109115351/194731263-74e1f9e9-c6f4-4562-921d-398ba0acf2a3.mov
